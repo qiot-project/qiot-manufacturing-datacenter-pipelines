@@ -1,1 +1,1 @@
-# qiot-manufacturing-datahub-pipelines
+# qiot-manufacturing-datacenter-pipelines
